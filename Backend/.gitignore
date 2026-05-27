@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Uploads and temporary files
+uploads/
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
