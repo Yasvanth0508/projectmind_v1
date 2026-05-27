@@ -6,8 +6,7 @@ python-dotenv
 langchain==0.3.14
 langchain-text-splitters
 
-google-generativeai
-
+google-genai
 supabase
 
 PyMuPDF
